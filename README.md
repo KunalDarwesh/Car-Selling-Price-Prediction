@@ -1,4 +1,4 @@
-# Car-Price-Prediction
+# Car-Selling-Price-Prediction
 
 Dataset:-
 https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
