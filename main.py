@@ -32,7 +32,7 @@ def predict():
         elif(Fuel_Type_Petrol=='Diesel'):
             Fuel_Type_Petrol=0
             Fuel_Type_Diesel=1
-        else: # Fuel Type is CNG
+        else: # Fuel Type is CNG c:krishnaik
             Fuel_Type_Petrol = 0
             Fuel_Type_Diesel = 0
 
